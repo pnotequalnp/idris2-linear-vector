@@ -1,0 +1,8 @@
+package linear-vector
+
+authors = "Kevin Mullins"
+license = "ISC"
+
+modules = Data.Linear.Vector
+
+sourcedir = "src"
